@@ -13,3 +13,6 @@
 [submodule "lib/tstorish"]
 	path = lib/tstorish
 	url = https://github.com/ProjectOpenSea/tstorish
+[submodule "lib/shipyard-core"]
+	path = lib/shipyard-core
+	url = https://github.com/ProjectOpenSea/shipyard-core
