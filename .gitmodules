@@ -4,3 +4,6 @@
 [submodule "lib/seaport-deploy"]
 	path = lib/seaport-deploy
 	url = https://github.com/ProjectOpenSea/seaport-deploy
+[submodule "lib/seaport-sol"]
+	path = lib/seaport-sol
+	url = https://github.com/ProjectOpenSea/seaport-sol
