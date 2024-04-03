@@ -10,3 +10,6 @@
 [submodule "lib/seaport-types"]
 	path = lib/seaport-types
 	url = https://github.com/ProjectOpenSea/seaport-types
+[submodule "lib/tstorish"]
+	path = lib/tstorish
+	url = https://github.com/ProjectOpenSea/tstorish
